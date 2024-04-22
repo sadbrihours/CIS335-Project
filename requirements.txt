@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+compose
+preprocessing 
+pipeline
+ensemble 
+svm 
+tree 
+model_selection 
+metrics 
+pillow 
